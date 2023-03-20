@@ -12,6 +12,10 @@ This repository contains the step by step for generating the machine learning  m
 
 1. [TensorFlow-Macos Installation](https://developer.apple.com/metal/tensorflow-plugin/)
 
-2. [Anki DataBase ](http://www.manythings.org/anki/)
 
 3. [](https://www.manythings.org/anki/)
+
+## Datasets 
+
+1. [Anki DataBase ](http://www.manythings.org/anki/)
+2. [Europat v1 - OPUS](https://opus.nlpl.eu/EuroPat-v1.php)
